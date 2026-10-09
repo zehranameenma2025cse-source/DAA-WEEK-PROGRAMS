@@ -1,65 +1,75 @@
-⚡ DAA — Design & Analysis of Algorithms
-A collection of my C implementations, practical assignments, and extra practice problems from my college coursework.
+# ⚡ DAA — Design & Analysis of Algorithms
 
-🧮 Complexity Analysis
-Concept	What I Learned
-Time & Space	Evaluating how algorithms scale with input size.
-Cases	Best, average, and worst-case behavior.
-Notation	Big O, Big Omega, Big Theta.
-Goal	Comparing approaches to choose the most efficient one.
-✂️ Divide & Conquer
-Break problems into smaller subproblems.
+> A collection of my C implementations, practical assignments, and extra practice problems from my college coursework.
 
-Solve recursively.
+---
 
-Combine results.
+### 🧮 Complexity Analysis
 
-Analyze recursive performance.
+| Concept | What I Learned |
+| :--- | :--- |
+| **Time & Space** | Evaluating how algorithms scale with input size. |
+| **Cases** | Best, average, and worst-case behavior. |
+| **Notation** | Big O, Big Omega, Big Theta. |
+| **Goal** | Comparing approaches to choose the most efficient one. |
 
-💰 Greedy Technique
-Make locally optimal choices.
+---
 
-Apply to optimization problems.
+### ✂️ Divide & Conquer
 
-Know when greedy actually works.
+- Break problems into smaller subproblems.
+- Solve recursively.
+- Combine results.
+- Analyze recursive performance.
 
-Measure efficiency.
+---
 
-🧩 Dynamic Programming
-Overlapping subproblems.
+### 💰 Greedy Technique
 
-Optimal substructure.
+- Make locally optimal choices.
+- Apply to optimization problems.
+- Know when greedy actually works.
+- Measure efficiency.
 
-Memoization vs. Tabulation.
+---
 
-Turn slow recursion into fast iteration.
+### 🧩 Dynamic Programming
 
-🏆 Competitive Programming
-Analyze problems quickly.
+- Overlapping subproblems.
+- Optimal substructure.
+- Memoization vs. Tabulation.
+- Turn slow recursion into fast iteration.
 
-Write optimized solutions.
+---
 
-Reduce time complexity.
+### 🏆 Competitive Programming
 
-Apply the right technique every time.
+- Analyze problems quickly.
+- Write optimized solutions.
+- Reduce time complexity.
+- Apply the right technique every time.
 
-💻 Practical Work
+---
+
+### 💻 Practical Work
+
 All programs were completed for my college DAA practicals through Moodle. I've also added extra practice questions to strengthen my understanding.
 
-Language: C
+**Language:** `C`
 
-🎯 Learning Outcomes
-Analyze time and space complexity.
+---
 
-Design algorithms using multiple paradigms.
+### 🎯 Learning Outcomes
 
-Implement efficient solutions in C.
+- Analyze time and space complexity.
+- Design algorithms using multiple paradigms.
+- Implement efficient solutions in C.
+- Compare different approaches.
+- Optimize computational complexity.
+- Apply concepts to practical and competitive problems.
 
-Compare different approaches.
+---
 
-Optimize computational complexity.
+### 📌 About This Repository
 
-Apply concepts to practical and competitive problems.
-
-📌 About This Repository
 This repo serves as my personal collection of DAA practicals and practice programs. It represents my hands-on experience with algorithm design, analysis, and implementation using C.
